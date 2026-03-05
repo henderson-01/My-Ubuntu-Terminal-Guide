@@ -78,7 +78,7 @@ This repository contains a curated list of my most used Ubuntu terminal commands
 | `lsusb` | Lists all connected USB devices. | Names of webcams, keyboards, and drives. |
 | `lspci` | Lists all internal hardware (GPU, Wi-Fi). | Technical specs of internal components. |
 | `journalctl -xe` | Shows the most recent system error logs. | Scrolling text showing system background tasks. |
-| `history | grep <txt>` | Searches your history for a specific command. | A list of every time you used that word. |
+| `history \| grep <txt>` | Searches your history for a specific command. | A list of every time you used that word. |
 | `exit` | Closes the current terminal session. | Terminal window closes or logs you out. |
 
 ---
