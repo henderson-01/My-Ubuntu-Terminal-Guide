@@ -93,6 +93,6 @@ This repository contains a curated list of my most used Ubuntu terminal commands
 
 ---
 
-## Disclaimer
+## ⚠️ Disclaimer 
 
 This project is provided "as-is" without any warranty of any kind. I am not responsible for any issues, data loss, or "explosions" (code-related or otherwise) that may occur from using this software. **Use it at your own risk.**
