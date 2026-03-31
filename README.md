@@ -1,18 +1,17 @@
 # 🐧 My Ubuntu Terminal Guide for Beginners
 
-### 40 Essential Commands to Master the Command Line
+## 40 Essential Commands to Master the Command Line
 
 This repository contains a curated list of my most used Ubuntu terminal commands. Whether you are managing a local machine or a remote server, these commands will be your bread and butter.
 
 > [!IMPORTANT]
 > **How to Read the Placeholders:**
 > When you see **`<text in brackets>`**, this is a **placeholder**.
+>
 > * **Do not type the `< >` symbols.**
 > * **Replace the text inside** with your actual file name, folder name, or address.
 > * *Example:* To change to a folder named "Documents," you would type: `cd Documents` (not `cd <Documents>`).
-> 
-> 
-
+>
 ---
 
 ## 📂 Navigation & File Basics
@@ -93,6 +92,6 @@ This repository contains a curated list of my most used Ubuntu terminal commands
 
 ---
 
-## ⚠️ Disclaimer 
+## ⚠️ Disclaimer
 
-This is provided "as is" without warranty of any kind. I am not responsible for any damage, data loss, or issues caused by the use of this Information. **Use it at your own risk.** 
+This is provided "as is" without warranty of any kind. I am not responsible for any damage, data loss, or issues caused by the use of this Information. **Use it at your own risk.**
